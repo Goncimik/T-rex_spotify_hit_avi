@@ -17,7 +17,7 @@ Bu repo, Spotify şarkı özelliklerini kullanarak bir şarkının **“hit” o
 
 - `T_rex_spotify_hit_avı.ipynb` – Veri analizi ve modelleme adımlarını içeren Jupyter Notebook  
 - `T-rex _Spotify_Hit_Avi_.pdf` – Projenin hikâyesini ve sonuçlarını anlatan görsel sunum  
-- `README.md` – Bu tanıtım dosyası
+
 
 ---
 
